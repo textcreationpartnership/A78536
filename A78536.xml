@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several particulars of the highest concern to the kingdom of Scotland, offered to consideration, in order to the enriching the same; without interfering with, or meanly depending on forraign nations, more than is usual in all other countrys. By a friend to the proposal made by D. H. Chamberlen anno 1693, for establishing a land credit in Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78536</idno>
+            <idno type="STC">Wing C1890A</idno>
+            <idno type="STC">ESTC R231228</idno>
+            <idno type="EEBO-CITATION">99897000</idno>
+            <idno type="PROQUEST">99897000</idno>
+            <idno type="VID">133496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2456:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several particulars of the highest concern to the kingdom of Scotland, offered to consideration, in order to the enriching the same; without interfering with, or meanly depending on forraign nations, more than is usual in all other countrys. By a friend to the proposal made by D. H. Chamberlen anno 1693, for establishing a land credit in Scotland</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heirs and successors of Andrew Anderson, printer to the King's most Excellent Majesty,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>anno Dom. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Hugh --  Early works to 1800.</term>
+               <term>Credit --  Early works to 1800.</term>
+               <term>Land use --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:133496:1" rendition="simple:additions"/>
+            <head>Several Particulars of the higheſt Concern to the Kingdom of <hi>SCOTLAND,</hi> Offered to Conſideration, in Order to the Enriching the ſame; Without interfe<g ref="char:EOLhyphen"/>ring with, or meanly depending on for<g ref="char:EOLhyphen"/>raign Nations, more than is uſual in all other Countrys.</head>
+            <byline>
+               <hi>By a Friend to the Propoſal made by D.</hi> H. Chamberlen <hi>anno</hi> 1693, <hi>for Eſtabliſhing a Land Credit in</hi> SCOTLAND.</byline>
+            <list>
+               <item>1. THAT there is great want of Money in this Kingdom, which ought to quicken their Induſtry.</item>
+               <item>2. That there is no want of Land or Hands, as appears by the Lands Unculti<g ref="char:EOLhyphen"/>vated or Unimproved, and by the numbers of the Idle and the Poor.</item>
+               <item>3. That few of thoſe already Imployed, are well; or fully, Imployed.</item>
+               <item>4. That a ſwift Circulation of a ſmall Sum equals a ſlow of a Greater.</item>
+               <item>5. That all Money hoarded, benefits a Nation no more, than when growing in the Mynes.</item>
+               <item>6. That, notwithſtanding there is neither Land nor Hands wanting in <hi>Scotland,</hi> yet 'tis impoſſible, it ſhould have a Flouriſhing Trade without a great Stock of Money or good Credit. For no Country ever enjoyed a great Trade without Plenty of one of them; Nor no Country ever failled of a great Trade, that aboun<g ref="char:EOLhyphen"/>ded in either.</item>
+               <item>7. That Credit is a Faith or Belief, of which in Trade there are two Sorts, Real and Imaginary: The firſt is founded by Judgement, on certain knowledge of a ſufficient Security: The laſt in Opinion, on a Suppoſition of a like Security, without a Poſſibility of having any Certainty: The laſt is a Strong Faith, and the firſt is a Reaſonable one.</item>
+               <item>8. That even Imaginary Credit does at preſent ſerve the Ends and Uſes of Mo<g ref="char:EOLhyphen"/>ney in all the Trading Countrys of <hi>Europe,</hi> at leaſt as well, and in ſome Reſpects better, that Gold and Silver Money. How much better then will a Real Credit?</item>
+               <item>9. That a Paun is always a better Security for Credit, than either Honour, Re<g ref="char:EOLhyphen"/>putation, or even the publick Faith: And that of all Pauns Land is eſteemed the moſt Valueable and Secure on Earth, and the beſt Fund or Security for a Credit.</item>
+               <item>10. That is always the beſt Fund and Security for Credit, which can within the limited time Diſcharge it with greateſt Certainty, and is the leaſt ſubject to Imbazle<g ref="char:EOLhyphen"/>ment, Deceit, Removal, or Deficiency during the ſaid time.</item>
+               <item>11. That Credit does not paſs, as ſome imagine, becauſe they can draw out their Money at Pleaſure: For, if Good, there can never be ſuch Occaſion, nor is it therefore any where practiſed: But becauſe 'tis at leaſt believed, there is a ſafe and ſufficient Security for it.</item>
+               <item>12. <hi>Scotland</hi> abounds not in Money, nor is it probable it will in many Years, unleſs <hi>CALEDONIA</hi> be worth the keeping, and likely to be kept by them: But this
+<pb facs="tcp:133496:2"/>Kingdom may in few Moneths be Maſter of ſome Millions in the beſt Credit of the World, equal in Uſe and Value to the beſt Money, if not Superior.</item>
+               <item>13. That privat Perſons Eſtates in Land, tho in <hi>England</hi> and <hi>Ireland,</hi> becauſe they are Iſlands, but more eſpecially in this Nation, becauſe it hath alſo a Regi<g ref="char:EOLhyphen"/>ſter, is ſuch an undoubted Security for Credit, which can neither be Deficient, Imbazled, nor Removed, may be always Encreaſing in Strength and Value, and is leſs ſubject to Violence, while the World laſts, than any other Land or Security yet known.</item>
+               <item>14. That the <hi>Scots</hi> Parliament hath as full Power, as any other Legiſlature, to make ſuch Money or Credit current, as they find Convenient and Safe for Trad<g ref="char:EOLhyphen"/>ers to deal with.</item>
+               <item>15. That to make ſuch Credit here current, there needs not the Conſent of any other Nation, the meer Authority of this Parliament being ſufficient.</item>
+               <item>16. That ſuch good Credit made Current by Act of Parliament, does actually become Real Money, and in Uſe, Value, and Security, equals the beſt Silver Mo<g ref="char:EOLhyphen"/>ney; And will immediatly be the ſame Advantage to this Nation in every Par<g ref="char:EOLhyphen"/>ticular, as if the like Value in Gold or Silver Money were actually imported.</item>
+               <item>17. That no Objection can ly againſt the raiſing a good Land Credit in this Na<g ref="char:EOLhyphen"/>tion, which lys not as ſtrong againſt the Importation of ſo much Gold and Silver.</item>
+               <item>18. That, when all are obliged by Act of Parliament, to receive this Credit cur<g ref="char:EOLhyphen"/>rently in Payment, it is impoſſible for any to ſuffer the leaſt Loſs by ſo doing; Wherefore all ought ſo to take it, and then <hi>Scotland</hi> can never after want Trade or Riches, and ſcarce can ever be ſo happy before.</item>
+               <item>19. That, when the Wiſe of this Nation ſhall be convinced of the Utile and Poſſibile of this Propoſal, they will by their Example ſoon lead their Commonality into a Conformity and Imitation.</item>
+               <item>20. That no Credit can miſcarry, which is to be anſwered by Land, Labour or Commodity, and ſcarce any can be ſafe, which muſt be only anſwered with Metall in Money.</item>
+               <item>21. That, when Credit upon Land or Goods ſupplyes the defects of Metallin Money, there can never be a ſtop upon Trade to the end of the World, except by Violence: But, when Gold or Silver can only ſerve, 'tis impoſſible for Trade to be extended beyond the Nations Stock of Money, what ever it is.</item>
+               <item>22. That 'tis an excellency in Credit, that 'tis local and peculiar to a Nation, and what all Wiſe Stateſmen have hitherto conſtantly endeavoured, tho without Succeſs: Yet, if thought neceſſary, it may be eaſily made current abroad.</item>
+               <item>23. That Nation can never avoid Ruine, which provides not Commoditys at Home, ſufficient to Purchaſe all ſuch Forrain Wares, as are intended for Home Conſumption, and to anſwer all Foraign Expenſe; But when it can export more, it may grow Rich in Gold, Silver and Jewels, and not before.</item>
+               <item>24. That Nation, which practiſeth moſt Juſtice and Generoſity, and is leaſt gi<g ref="char:EOLhyphen"/>ven to Idleneſs, will ſoon have the advantage in Riches and Power above all other Nations.</item>
+               <item>25. That the uſes of Riches always increaſe faſter, than Riches in Money can: for there never was yet any Countrey, ſo Rich in Money wherein the greateſt part of the Inhabitants had not occaſion, or could not have Employed much more.</item>
+               <item>26. That, ſince Land doth every where at all times command Money in Specie, 'tis full as reaſonable, it ſhould command the like value in any other Commodity, all others being ſomething inferior to, becauſe now anſwered by Money.</item>
+               <item>27. That, if Land were capable to be conveniently and actually divided, and ſubdivided into ſmall parcels, as Gold and Silver are, 'tis more than probable it would have been long ſince made uſe of for Money: Now by this Propoſal 'tis virtually rendred capable of ſerving all the End and Uſes of Money, being endued, which all the Specifick and eſſential Propertys of Money.</item>
+               <item>28. That Land Credit hath this peculiar property, that there can never be too much nor too little of it: Neither more nor leſs, than will at any time be wanted.</item>
+               <item>29. That <hi>Scotland</hi> is, it may be, 20 Millions the worſe for want of the Benefit of the ſaid Propoſal, ſince firſt made, and muſt be ſtill yearly at an immenſe loſs till granted and eſtabliſhed.</item>
+            </list>
+            <div type="part">
+               <pb facs="tcp:133496:2"/>
+               <head>The Preliminary Poſitions being allowed; The Propoſal follows, which is,</head>
+               <p>THat there may be advanced, under the Direction, and Comptroll of Commiſ<g ref="char:EOLhyphen"/>ſioners of Parliament, Bills of Credit, made current by Act of Parliament, to the value of 100 Years, and of two Thirds of the Annual rent upon ſuch private Perſons Eſtates, as ſhall be voluntarly engaged for 150 Years, as a ſufficient Fund, to make good the ſaid Bills, which are annually to be deſtroyed in proporti<g ref="char:EOLhyphen"/>on to the Rents Contracted for to be yearly Pay'd into an Office, for this purpoſe to be erected.</p>
+               <div type="part">
+                  <head>Which may be thus Explained.</head>
+                  <p>A Gentleman engadgeth 150 <hi>lib. per annum,</hi> for 150 years, to pay 100 <hi>lib. per annum,</hi> in Bills of Credit, for 100 years, which amounts to 10000 <hi>lib.</hi> In Conſideration of this Rent-charge, there muſt be provided the value of 10000 <hi>lib.</hi> in Bills of Credit, to be diſtributed as follows.</p>
+                  <list>
+                     <item>4000 <hi>lib.</hi> Of the ſaid Credit, to the Proprietors of the ſaid Lands,</item>
+                     <item>3000 <hi>lib.</hi> Of the like to a Joynt Stock, for a Recompenſe to Poſterity, a Strength to the Security, and the overplus Profit to the Pro<g ref="char:EOLhyphen"/>prietors only.</item>
+                     <item>2000 <hi>lib.</hi> To ſupport of the Office, upon the firm Eſtabliſhment of which the Proſperity of the whole depends.</item>
+                     <item>1000 <hi>lib.</hi> At the Diſpoſal of the Proprietors for publick Uſes,</item>
+                     <item>10000 <hi>lib.</hi> And thus in proportion for Larger or Smaller Eſtates.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Reaſons of this Propoſal.</head>
+               <list>
+                  <item>1. THE Commiſſioners appointed by Parliament, are to Overſee and take Care, that there ſhall be neither Neglect nor Fraud committed in the Manage<g ref="char:EOLhyphen"/>ment of the Office: that no more Bills be made, then there ſhall be Rent of Land engaged to Diſcharge: and that the Bills ſhall be exactly cancelled <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the value of the Rent annually Pay'd: and that Proviſion be made ſufficient to diſcharge all Sallaries, and contingent Expenſe relating to this Office. And for all this the ſaids Commiſſioners are to be acountable to the Parliament.</item>
+                  <item>2. The Bills are to be made current, becauſe that will make them actually real Money in Uſe and Value equal to Gold and Silver Money.</item>
+                  <item>3. The ingaging a third part of Rent more, and a third part in time longer, is to Strengthen the Security againſt all croſs Accidents, but not to prejudice the Proprietor, for he can but pay 10000 <hi>lib.</hi> in 100 Years.</item>
+                  <item>4. The advancing 100 Years, and no more nor leſs, is becauſe that Number makes the deſign compleat: leſs then 40 years cannot well invite a wiſe and gene<g ref="char:EOLhyphen"/>rous Propietor, leſs then 30 to the Stock cannot well Recompenſe Poſterity, for the incumbrance charged on the Eſtate by the preſent Proprietor; Beſides, it is an additional Strength to the Land Security. Leſs then 20 cannot well ſupport this Office, and provide againſt all Accidents and Contingencies; And its fit, there ſhould be 10 left, above what is Appropriated, to be at the Propriators diſpoſal ſo publick Uſe, more than 100 years would Augment the difficulty in ſcrupulousr Perſons imaginations.</item>
+                  <item>5. The Credit of 100 years Secured by 150 years, is as Good and Safe, as of two years Secured by three.</item>
+                  <item>6. The advancing of 100 years, gives ſo much a greater Intrinſick value to the Nation of <hi>Scotland,</hi> as it exceeds any leſs number of years, that may be propoſed.</item>
+                  <item>7. There is no Objection can be made againſt 100 years, which lyes not as ſtrong againſt 7 years or fewer.</item>
+                  <item>8. The Bills are alwayes to be cancelled, (or at leaſt, not to be ſent again out of the Office, without a new Fund) when ever they are pay'd in for Rent: Be<g ref="char:EOLhyphen"/>cauſe, ſo much of the Fund being thereby leſſened, they muſt otherwiſe hereafter prove a loſs upon the Nation, for want of a Fund to make them good.</item>
+                  <pb facs="tcp:133496:3"/>
+                  <item>9. There is liberty enough in the nature of this Undertaking, for any circum<g ref="char:EOLhyphen"/>ſtantial Variation which is prudential, and may ſeem good to the greateſt number of the Proprietors.</item>
+                  <item>10. There can be no loſs to any that receives this Credit in Trade and Dealing, becauſe there is above double the Value Secured in Land-Rents, together with the Joint Stock, and both Appropriated to Buy them up at their full value within the Term: Beſide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the Parliaments Authority to oblige all Perſons to take them in the mean time at the ſame Value.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>A few Conſiderations ſubſequent to the Propoſal made by Dr. <hi>Hugh Chamberlane.</hi>
+               </head>
+               <p>In the Propoſal there are theſe particular Advantages.</p>
+               <list>
+                  <item>1. THere can be no conſiderable Hazard or Loſs in the Attempt and Experi<g ref="char:EOLhyphen"/>ment, ſcarce of a Shilling for a thouſand Pound <hi>Sterling.</hi>
+                  </item>
+                  <item>2. There can be no loſs to any by the currency of theſe Bills during the whole Term, nor afterwards.</item>
+                  <item>3. The Propoſer can reap no Benefit by the ſame, unleſs the Nation gains a much greater.</item>
+               </list>
+               <p>All prudent Government conſiders what Profit will redound to their Country by any new Propoſal, without envying the Advantage to the Propoſer, be it what it will.</p>
+               <list>
+                  <item>1. Nothing will be Rejected or Condemned by a Wiſe Nation, till well conſi<g ref="char:EOLhyphen"/>dered: And nothing can be well Conſidered, till fully Heard and Examined, to<g ref="char:EOLhyphen"/>gether with the Anſwers to every Objection.</item>
+                  <item>2. Nothing will be neglected by the Wiſe, becauſe Objections may be raiſed a<g ref="char:EOLhyphen"/>gainſt it, till the Inconveniencies appear to exceed the Benefits thereof.</item>
+                  <item>3. If the Parliament ſhould pleaſe to paſs an Act for Eſtabliſhing the foreſaid Propoſal, <hi>de bene eſſe,</hi> no other Conſequence could happen: But either that this Kingdom might enjoy the full Benefit of the ſame: Or, That the <hi>Engliſh</hi> and other Strangers will buy all the Lands in <hi>Scotland,</hi> that will be ſold, at Thirty Years Pur<g ref="char:EOLhyphen"/>chaſe ready Money: Or Laſtly, Which is the worſt that can be, it will ſink of it ſelf without the help of any <hi>Proviſo</hi> in the Act to that Purpoſe, or without any loſs to the Nation.</item>
+                  <item>4. Good Things wants no Precedent: And bad things are not mended by hav<g ref="char:EOLhyphen"/>ing one.</item>
+                  <item>5. <hi>Scotland</hi> has Eyes and Underſtand of their own, and can beſt Judge what is fit for themſelves, without an Implicit Imitation of other Nations.</item>
+               </list>
+               <p>Many Things are practiſed in <hi>England,</hi> which <hi>Scotland</hi> does not think fit to imi<g ref="char:EOLhyphen"/>tate, as <hi>Biſhops,</hi> &amp;c. And ſomethings are done in <hi>Scotland,</hi> of which there is no Precedent in <hi>England,</hi> as a <hi>Register</hi> vigorouſly oppoſed by the Lawyers and ſome States-men. <hi>England</hi> does not always know their own Good, nor foreſees how Poverty is at preſent ſtealing in upon them.</p>
+               <p>
+                  <hi>Theſe Conſiderations are at the Command of ſeveral Judicious Noblemen and Gentlemen, committed to the Preſs, and ſubmitted to the Judgement and Candor of this Na<g ref="char:EOLhyphen"/>tion. And all Ingenuous Perſons who have yet any Doubt or Objection to make, are hereby kindly entreated to ſend them to the Printer hereof, in ſome short time, that ſo the Anſwers may be published and well conſidered before the next Seſsion of Parliament.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
